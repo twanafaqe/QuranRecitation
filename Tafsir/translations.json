@@ -14,7 +14,34 @@
       "currentVersion": 2,
       "translatorForeign": "تەفسیری ئاسان"
     },
-
+    
+    {
+      "id": 72,
+      "displayName": "Kurdish Translation",
+      "translator": "Muhammad Saleh Bamoki",
+      "languageCode": "ku",
+      "fileUrl": "https://android.quran.com/data/getTranslation.php?id=72&ext=zip",
+      "fileName": "quran.ku.bamoki.db",
+      "saveTo": "databases",
+      "downloadType": "translation",
+      "last_modified": "2023-01-17 21:17:11",
+      "minimumVersion": 2,
+      "currentVersion": 1
+    },
+    {
+      "id": 16,
+      "displayName": "Kurdish Translation",
+      "translator": "Burhan Muhammad-Amin",
+      "languageCode": "ku",
+      "fileUrl": "https://android.quran.com/data/getTranslation.php?id=16",
+      "fileName": "quran.ku.asan.db",
+      "saveTo": "databases",
+      "downloadType": "translation",
+      "last_modified": "2023-01-17 21:17:11",
+      "minimumVersion": 2,
+      "currentVersion": 2,
+      "translatorForeign": "تهদ্فسیری ئاسان"
+    },
 
 
 
@@ -33,7 +60,7 @@
     {
       "id": 33,
       "displayName": "Albanian Translation",
-      "translator": "Hasan Nahhhhi",
+      "translator": "Hasan Nahi",
       "languageCode": "sq",
       "fileUrl": "https://android.quran.com/data/getTranslation.php?id=33&ext=zip",
       "fileName": "quran.al.db",
@@ -641,33 +668,6 @@
       "last_modified": "2023-03-04 17:04:13",
       "minimumVersion": 2,
       "currentVersion": 1
-    },
-    {
-      "id": 72,
-      "displayName": "Kurdish Translation",
-      "translator": "Muhammad Saleh Bamoki",
-      "languageCode": "ku",
-      "fileUrl": "https://android.quran.com/data/getTranslation.php?id=72&ext=zip",
-      "fileName": "quran.ku.bamoki.db",
-      "saveTo": "databases",
-      "downloadType": "translation",
-      "last_modified": "2023-01-17 21:17:11",
-      "minimumVersion": 2,
-      "currentVersion": 1
-    },
-    {
-      "id": 16,
-      "displayName": "Kurdish Translation",
-      "translator": "Burhan Muhammad-Amin",
-      "languageCode": "ku",
-      "fileUrl": "https://android.quran.com/data/getTranslation.php?id=16",
-      "fileName": "quran.ku.asan.db",
-      "saveTo": "databases",
-      "downloadType": "translation",
-      "last_modified": "2023-01-17 21:17:11",
-      "minimumVersion": 2,
-      "currentVersion": 2,
-      "translatorForeign": "تهদ্فسیری ئاسان"
     },
     {
       "id": 9,
