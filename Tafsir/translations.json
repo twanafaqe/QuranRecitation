@@ -1,8 +1,38 @@
 {
   "data": [
     {
-    "id": 33,
-      "displayName": "Albaniannnnn Translation",
+      "id": 113,
+      "displayName": "Asan Kurdish Translation",
+      "translator": "Burhan Muhammed Amin",
+      "languageCode": "ku",
+      "fileUrl": "https://github.com/twanafaqe/QuranRecitation/raw/refs/heads/Tafsir/Tafsir/tafseer_asan.zip",
+      "fileName": "tafseer_asan.db",
+      "saveTo": "databases",
+      "downloadType": "translation",
+      "last_modified": "2023-01-17 21:17:11",
+      "minimumVersion": 2,
+      "currentVersion": 2,
+      "translatorForeign": "تەفسیری ئاسان"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "id": 33,
+      "displayName": "Albanian Translation",
       "translator": "Hasan Nahhhhi",
       "languageCode": "sq",
       "fileUrl": "https://android.quran.com/data/getTranslation.php?id=33&ext=zip",
@@ -15,7 +45,7 @@
     },
     {
       "id": 49,
-      "displayName": "Amhariccccc Translation",
+      "displayName": "Amharic Translation",
       "translator": "Muhammed Sadiq and Muhammed Sani Habib",
       "languageCode": "am",
       "fileUrl": "https://android.quran.com/data/getTranslation.php?id=49",
